@@ -1,3 +1,5 @@
+<h2 align="center">Planet 734: Where Centering Divs Is a Full-Time Job</h2>
+
 ![Comic of chaos](cosmic-chaos.png)
 
 *The real joke? This entire comic is being rendered by JavaScript in the browser right now lol.*  
